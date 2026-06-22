@@ -1,0 +1,12 @@
+# Originais de mídia (1,4 GB) nunca vão para o Git
+fotos_e_videos/
+
+# Binário do ffmpeg baixado para conversão local
+scripts/bin/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Temporários
+/tmp/
