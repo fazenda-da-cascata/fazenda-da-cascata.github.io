@@ -6,6 +6,41 @@ window.GALERIAS = [
     "itens": [
       {
         "tipo": "photo",
+        "full": "assets/galeria/capivaras/IMG_0345.jpg",
+        "thumb": "assets/galeria/capivaras/IMG_0345-thumb.jpg",
+        "poster": null,
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/capivaras/IMG_0349.jpg",
+        "thumb": "assets/galeria/capivaras/IMG_0349-thumb.jpg",
+        "poster": null,
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/capivaras/IMG_0353.jpg",
+        "thumb": "assets/galeria/capivaras/IMG_0353-thumb.jpg",
+        "poster": null,
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/capivaras/IMG_0363.jpg",
+        "thumb": "assets/galeria/capivaras/IMG_0363-thumb.jpg",
+        "poster": null,
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/capivaras/IMG_0364.jpg",
+        "thumb": "assets/galeria/capivaras/IMG_0364-thumb.jpg",
+        "poster": null,
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "photo",
         "full": "assets/galeria/capivaras/IMG_0372.jpg",
         "thumb": "assets/galeria/capivaras/IMG_0372-thumb.jpg",
         "poster": null,
@@ -20,43 +55,8 @@ window.GALERIAS = [
       },
       {
         "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0374.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0374-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0375.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0375-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0376.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0376-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
         "full": "assets/galeria/capivaras/IMG_0446.jpg",
         "thumb": "assets/galeria/capivaras/IMG_0446-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0447.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0447-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0449.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0449-thumb.jpg",
         "poster": null,
         "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
       },
@@ -97,13 +97,6 @@ window.GALERIAS = [
       },
       {
         "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0461.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0461-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
         "full": "assets/galeria/capivaras/IMG_0462.jpg",
         "thumb": "assets/galeria/capivaras/IMG_0462-thumb.jpg",
         "poster": null,
@@ -111,29 +104,8 @@ window.GALERIAS = [
       },
       {
         "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0463.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0463-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
         "full": "assets/galeria/capivaras/IMG_0464.jpg",
         "thumb": "assets/galeria/capivaras/IMG_0464-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0465.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0465-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0466.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0466-thumb.jpg",
         "poster": null,
         "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
       },
@@ -148,27 +120,6 @@ window.GALERIAS = [
         "tipo": "photo",
         "full": "assets/galeria/capivaras/IMG_0468.jpg",
         "thumb": "assets/galeria/capivaras/IMG_0468-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0469.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0469-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0471.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0471-thumb.jpg",
-        "poster": null,
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/capivaras/IMG_0472.jpg",
-        "thumb": "assets/galeria/capivaras/IMG_0472-thumb.jpg",
         "poster": null,
         "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
       },
@@ -195,9 +146,37 @@ window.GALERIAS = [
       },
       {
         "tipo": "video",
+        "full": "assets/galeria/capivaras/IMG_0296.mp4",
+        "thumb": "assets/galeria/capivaras/IMG_0296-poster.jpg",
+        "poster": "assets/galeria/capivaras/IMG_0296-poster.jpg",
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "video",
+        "full": "assets/galeria/capivaras/IMG_0365.mp4",
+        "thumb": "assets/galeria/capivaras/IMG_0365-poster.jpg",
+        "poster": "assets/galeria/capivaras/IMG_0365-poster.jpg",
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "video",
         "full": "assets/galeria/capivaras/IMG_0391.mp4",
         "thumb": "assets/galeria/capivaras/IMG_0391-poster.jpg",
         "poster": "assets/galeria/capivaras/IMG_0391-poster.jpg",
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "video",
+        "full": "assets/galeria/capivaras/IMG_0444.mp4",
+        "thumb": "assets/galeria/capivaras/IMG_0444-poster.jpg",
+        "poster": "assets/galeria/capivaras/IMG_0444-poster.jpg",
+        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
+      },
+      {
+        "tipo": "video",
+        "full": "assets/galeria/capivaras/IMG_0445.mp4",
+        "thumb": "assets/galeria/capivaras/IMG_0445-poster.jpg",
+        "poster": "assets/galeria/capivaras/IMG_0445-poster.jpg",
         "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
       },
       {
@@ -209,13 +188,6 @@ window.GALERIAS = [
       },
       {
         "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0453.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0453-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0453-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
         "full": "assets/galeria/capivaras/IMG_0454.mp4",
         "thumb": "assets/galeria/capivaras/IMG_0454-poster.jpg",
         "poster": "assets/galeria/capivaras/IMG_0454-poster.jpg",
@@ -223,30 +195,9 @@ window.GALERIAS = [
       },
       {
         "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0456.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0456-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0456-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0458.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0458-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0458-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
         "full": "assets/galeria/capivaras/IMG_0459.mp4",
         "thumb": "assets/galeria/capivaras/IMG_0459-poster.jpg",
         "poster": "assets/galeria/capivaras/IMG_0459-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0470.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0470-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0470-poster.jpg",
         "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
       },
       {
@@ -272,30 +223,9 @@ window.GALERIAS = [
       },
       {
         "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0478.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0478-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0478-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0480.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0480-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0480-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
         "full": "assets/galeria/capivaras/IMG_0481.mp4",
         "thumb": "assets/galeria/capivaras/IMG_0481-poster.jpg",
         "poster": "assets/galeria/capivaras/IMG_0481-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0482.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0482-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0482-poster.jpg",
         "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
       },
       {
@@ -304,173 +234,6 @@ window.GALERIAS = [
         "thumb": "assets/galeria/capivaras/IMG_0483-poster.jpg",
         "poster": "assets/galeria/capivaras/IMG_0483-poster.jpg",
         "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0484.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0484-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0484-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/capivaras/IMG_0485.mp4",
-        "thumb": "assets/galeria/capivaras/IMG_0485-poster.jpg",
-        "poster": "assets/galeria/capivaras/IMG_0485-poster.jpg",
-        "caption": "Capivaras pastando livremente perto da sede, à beira d'água"
-      }
-    ]
-  },
-  {
-    "tema": "pecuaria",
-    "label": "Pecuária",
-    "itens": [
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0345.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0345-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0348.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0348-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0349.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0349-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0351.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0351-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0352.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0352-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0353.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0353-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0362.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0362-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0363.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0363-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0364.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0364-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0366.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0366-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0367.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0367-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0368.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0368-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/pecuaria/IMG_0369.jpg",
-        "thumb": "assets/galeria/pecuaria/IMG_0369-thumb.jpg",
-        "poster": null,
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0296.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0296-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0296-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0298.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0298-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0298-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0313.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0313-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0313-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0314.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0314-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0314-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0334.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0334-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0334-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0350.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0350-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0350-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0377.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0377-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0377-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/pecuaria/IMG_0428.mp4",
-        "thumb": "assets/galeria/pecuaria/IMG_0428-poster.jpg",
-        "poster": "assets/galeria/pecuaria/IMG_0428-poster.jpg",
-        "caption": "Gado criado a campo aberto no pampa"
       }
     ]
   },
@@ -486,6 +249,20 @@ window.GALERIAS = [
         "caption": "Emas e aves nativas pelos campos da fazenda"
       },
       {
+        "tipo": "photo",
+        "full": "assets/galeria/emas-aves/IMG_0338.jpg",
+        "thumb": "assets/galeria/emas-aves/IMG_0338-thumb.jpg",
+        "poster": null,
+        "caption": "Emas e aves nativas pelos campos da fazenda"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/emas-aves/IMG_0339.jpg",
+        "thumb": "assets/galeria/emas-aves/IMG_0339-thumb.jpg",
+        "poster": null,
+        "caption": "Emas e aves nativas pelos campos da fazenda"
+      },
+      {
         "tipo": "video",
         "full": "assets/galeria/emas-aves/IMG_0335.mp4",
         "thumb": "assets/galeria/emas-aves/IMG_0335-poster.jpg",
@@ -494,10 +271,44 @@ window.GALERIAS = [
       },
       {
         "tipo": "video",
-        "full": "assets/galeria/emas-aves/IMG_0365.mp4",
-        "thumb": "assets/galeria/emas-aves/IMG_0365-poster.jpg",
-        "poster": "assets/galeria/emas-aves/IMG_0365-poster.jpg",
+        "full": "assets/galeria/emas-aves/IMG_0313.mp4",
+        "thumb": "assets/galeria/emas-aves/IMG_0313-poster.jpg",
+        "poster": "assets/galeria/emas-aves/IMG_0313-poster.jpg",
         "caption": "Emas e aves nativas pelos campos da fazenda"
+      },
+      {
+        "tipo": "video",
+        "full": "assets/galeria/emas-aves/IMG_0314.mp4",
+        "thumb": "assets/galeria/emas-aves/IMG_0314-poster.jpg",
+        "poster": "assets/galeria/emas-aves/IMG_0314-poster.jpg",
+        "caption": "Emas e aves nativas pelos campos da fazenda"
+      }
+    ]
+  },
+  {
+    "tema": "fauna-insetos",
+    "label": "Fauna e Insetos",
+    "itens": [
+      {
+        "tipo": "video",
+        "full": "assets/galeria/fauna-insetos/IMG_0405.mp4",
+        "thumb": "assets/galeria/fauna-insetos/IMG_0405-poster.jpg",
+        "poster": "assets/galeria/fauna-insetos/IMG_0405-poster.jpg",
+        "caption": "Vespeiros e a fauna de insetos entre as árvores da fazenda"
+      },
+      {
+        "tipo": "video",
+        "full": "assets/galeria/fauna-insetos/IMG_0406.mp4",
+        "thumb": "assets/galeria/fauna-insetos/IMG_0406-poster.jpg",
+        "poster": "assets/galeria/fauna-insetos/IMG_0406-poster.jpg",
+        "caption": "Vespeiros e a fauna de insetos entre as árvores da fazenda"
+      },
+      {
+        "tipo": "video",
+        "full": "assets/galeria/fauna-insetos/IMG_0407.mp4",
+        "thumb": "assets/galeria/fauna-insetos/IMG_0407-poster.jpg",
+        "poster": "assets/galeria/fauna-insetos/IMG_0407-poster.jpg",
+        "caption": "Vespeiros e a fauna de insetos entre as árvores da fazenda"
       }
     ]
   },
@@ -505,20 +316,6 @@ window.GALERIAS = [
     "tema": "nozes",
     "label": "Colheita de Nozes",
     "itens": [
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/nozes/IMG_0338.jpg",
-        "thumb": "assets/galeria/nozes/IMG_0338-thumb.jpg",
-        "poster": null,
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/nozes/IMG_0339.jpg",
-        "thumb": "assets/galeria/nozes/IMG_0339-thumb.jpg",
-        "poster": null,
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
       {
         "tipo": "photo",
         "full": "assets/galeria/nozes/IMG_0400.jpg",
@@ -674,34 +471,6 @@ window.GALERIAS = [
         "caption": "Nogueiras-pecã e a colheita das nozes"
       },
       {
-        "tipo": "photo",
-        "full": "assets/galeria/nozes/IMG_0436.jpg",
-        "thumb": "assets/galeria/nozes/IMG_0436-thumb.jpg",
-        "poster": null,
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/nozes/IMG_0438.jpg",
-        "thumb": "assets/galeria/nozes/IMG_0438-thumb.jpg",
-        "poster": null,
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/nozes/IMG_0439.jpg",
-        "thumb": "assets/galeria/nozes/IMG_0439-thumb.jpg",
-        "poster": null,
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
-        "tipo": "photo",
-        "full": "assets/galeria/nozes/IMG_0442.jpg",
-        "thumb": "assets/galeria/nozes/IMG_0442-thumb.jpg",
-        "poster": null,
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
         "tipo": "video",
         "full": "assets/galeria/nozes/IMG_0318.mp4",
         "thumb": "assets/galeria/nozes/IMG_0318-poster.jpg",
@@ -741,27 +510,6 @@ window.GALERIAS = [
         "full": "assets/galeria/nozes/IMG_0330.mp4",
         "thumb": "assets/galeria/nozes/IMG_0330-poster.jpg",
         "poster": "assets/galeria/nozes/IMG_0330-poster.jpg",
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/nozes/IMG_0405.mp4",
-        "thumb": "assets/galeria/nozes/IMG_0405-poster.jpg",
-        "poster": "assets/galeria/nozes/IMG_0405-poster.jpg",
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/nozes/IMG_0406.mp4",
-        "thumb": "assets/galeria/nozes/IMG_0406-poster.jpg",
-        "poster": "assets/galeria/nozes/IMG_0406-poster.jpg",
-        "caption": "Nogueiras-pecã e a colheita das nozes"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/nozes/IMG_0407.mp4",
-        "thumb": "assets/galeria/nozes/IMG_0407-poster.jpg",
-        "poster": "assets/galeria/nozes/IMG_0407-poster.jpg",
         "caption": "Nogueiras-pecã e a colheita das nozes"
       }
     ]
@@ -909,13 +657,6 @@ window.GALERIAS = [
         "thumb": "assets/galeria/paisagens/IMG_0427-thumb.jpg",
         "poster": null,
         "caption": "Os campos, estradas e o pôr do sol da Fazenda da Cascata"
-      },
-      {
-        "tipo": "video",
-        "full": "assets/galeria/paisagens/IMG_0437.mp4",
-        "thumb": "assets/galeria/paisagens/IMG_0437-poster.jpg",
-        "poster": "assets/galeria/paisagens/IMG_0437-poster.jpg",
-        "caption": "Os campos, estradas e o pôr do sol da Fazenda da Cascata"
       }
     ]
   },
@@ -1020,40 +761,68 @@ window.GALERIAS = [
         "thumb": "assets/galeria/sede-estruturas/IMG_0402-poster.jpg",
         "poster": "assets/galeria/sede-estruturas/IMG_0402-poster.jpg",
         "caption": "O portão, os currais e as construções históricas da fazenda"
+      },
+      {
+        "tipo": "video",
+        "full": "assets/galeria/sede-estruturas/IMG_0377.mp4",
+        "thumb": "assets/galeria/sede-estruturas/IMG_0377-poster.jpg",
+        "poster": "assets/galeria/sede-estruturas/IMG_0377-poster.jpg",
+        "caption": "O portão, os currais e as construções históricas da fazenda"
       }
     ]
   },
   {
     "tema": "animais",
-    "label": "Animais da Fazenda",
+    "label": "Animais de Estimação",
     "itens": [
       {
         "tipo": "video",
         "full": "assets/galeria/animais/IMG_0441.mp4",
         "thumb": "assets/galeria/animais/IMG_0441-poster.jpg",
         "poster": "assets/galeria/animais/IMG_0441-poster.jpg",
-        "caption": "Os cães e gatos na lida do dia a dia"
+        "caption": "Os gatos que vivem na sede da fazenda"
       },
       {
         "tipo": "video",
         "full": "assets/galeria/animais/IMG_0443.mp4",
         "thumb": "assets/galeria/animais/IMG_0443-poster.jpg",
         "poster": "assets/galeria/animais/IMG_0443-poster.jpg",
-        "caption": "Os cães e gatos na lida do dia a dia"
+        "caption": "Os gatos que vivem na sede da fazenda"
       },
       {
         "tipo": "video",
-        "full": "assets/galeria/animais/IMG_0444.mp4",
-        "thumb": "assets/galeria/animais/IMG_0444-poster.jpg",
-        "poster": "assets/galeria/animais/IMG_0444-poster.jpg",
-        "caption": "Os cães e gatos na lida do dia a dia"
+        "full": "assets/galeria/animais/IMG_0437.mp4",
+        "thumb": "assets/galeria/animais/IMG_0437-poster.jpg",
+        "poster": "assets/galeria/animais/IMG_0437-poster.jpg",
+        "caption": "Os gatos que vivem na sede da fazenda"
       },
       {
-        "tipo": "video",
-        "full": "assets/galeria/animais/IMG_0445.mp4",
-        "thumb": "assets/galeria/animais/IMG_0445-poster.jpg",
-        "poster": "assets/galeria/animais/IMG_0445-poster.jpg",
-        "caption": "Os cães e gatos na lida do dia a dia"
+        "tipo": "photo",
+        "full": "assets/galeria/animais/IMG_0436.jpg",
+        "thumb": "assets/galeria/animais/IMG_0436-thumb.jpg",
+        "poster": null,
+        "caption": "Os gatos que vivem na sede da fazenda"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/animais/IMG_0438.jpg",
+        "thumb": "assets/galeria/animais/IMG_0438-thumb.jpg",
+        "poster": null,
+        "caption": "Os gatos que vivem na sede da fazenda"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/animais/IMG_0439.jpg",
+        "thumb": "assets/galeria/animais/IMG_0439-thumb.jpg",
+        "poster": null,
+        "caption": "Os gatos que vivem na sede da fazenda"
+      },
+      {
+        "tipo": "photo",
+        "full": "assets/galeria/animais/IMG_0442.jpg",
+        "thumb": "assets/galeria/animais/IMG_0442-thumb.jpg",
+        "poster": null,
+        "caption": "Os gatos que vivem na sede da fazenda"
       }
     ]
   }
